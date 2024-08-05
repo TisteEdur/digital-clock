@@ -13,8 +13,9 @@ body {
     width: 100vw;
     height: 100vh;
     display: flex;
+    flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
     background-image: url(./images/bg.jpg);
     background-repeat: no-repeat;
     background-position: center;
@@ -42,6 +43,22 @@ h1 {
     font-weight: 900;
     font-style: italic;
     text-shadow: 5px 5px #3f3f3f;
+}
+
+p,
+a {
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+p {
+    color: #3f3f3f;
+}
+
+a {
+    color: #f3f3f3;
+    text-decoration: none;
 }
 
 @media (max-width: 1080px) {

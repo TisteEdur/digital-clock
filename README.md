@@ -10,4 +10,4 @@ The main stumbling stone for this exercise was the addition of an extra 0 before
 
 I used the **[padStart()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart)** method for that. Found the method easy  to use and pretty straightforward for the task.
 
-## [Digital Clock URL](https://tisteedur.github.io/digital-clock/)
+## [Digital Clock Demo](https://tisteedur.github.io/digital-clock/)
